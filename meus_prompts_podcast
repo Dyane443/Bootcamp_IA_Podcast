@@ -1,0 +1,54 @@
+# Projeto Podcast Gerado por I.A.s
+
+
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula na [DIO](https://dio.me)
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney Para gerar capas
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `midjourney`
+
+Chatgpt
+
+- Titulo Podcast - Você é o roteirista de podcast e vamos criar um podcast de gestão de pessoas focado em clima organizacional e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de gestão de pessoas e que tenha um trocadilho com termos organizacionais 
+
+- Roteiro Podcast - Você é o roteirista de podcast e vamos criar um podcast de gestão de pessoas focado em clima organizacional, cujo o nome é ‘Pessoas em Alta Frequência’, com o público alvo os empregados da CAIXA, o formato do roteiro deve ser:
+[INTRODUÇÃO]
+[CURIOSIDADE1]
+[CURIOSIDADE2]
+[FINALIZAÇÃO]
+{REGRAS}
+>  No bloco [INTRODUÇÃO] substitua por uma introdução amigável aos empregados da CAIXA
+> No bloco [CURIOSIDADE1] substitua por uma curiosidade sobre o clima organizacional
+> No bloco [CURIOSIDADE2] substitua por uma curiosidade sobre a importância da gestão transparente
+> No bloco [FINALIZAÇÃO] substitua por uma despedida  cool com o final ‘Eu sou Dyana e esse foi mais um episódio de ‘Pessoas em Alta Frequência’.
+
+ElevenLabs
+
+- Audio - Olá, empregados da CAIXA! Sejam muito bem-vindos ao "Pessoas em Alta Frequência", o podcast onde falamos sobre tudo o que envolve gestão de pessoas, clima organizacional e como melhorar a experiência dentro do seu ambiente de trabalho. Eu sou a Dyane, e estou super empolgada para mais uma conversa com vocês. Aqui, a sintonia e o clima da nossa organização estão sempre em alta, e vamos juntos descobrir como podemos fazer do ambiente de trabalho um lugar cada vez mais colaborativo e produtivo. Vamos nessa
+Você sabia que empresas com um clima organizacional positivo têm uma taxa de rotatividade de funcionários até 50% menor do que aquelas com clima mais negativo? Isso acontece porque quando as pessoas se sentem bem no ambiente de trabalho, elas têm mais motivação, engajamento e ficam mais tempo na empresa. Criar um clima saudável não é apenas sobre fazer todos sorrirem, mas sim sobre criar condições para que as pessoas se sintam seguras, valorizadas e com autonomia para entregar o seu melhor. Legal, né?
+E falando em clima, aqui vai mais uma curiosidade interessante: gestão transparente não é só uma boa prática, mas é uma das maiores responsáveis pela confiança dentro das empresas. Quando as lideranças são abertas e claras sobre objetivos, desafios e mudanças, os colaboradores se sentem mais seguros e alinhados. A transparência cria um ambiente de comprometimento, onde todos sabem para onde estão indo e como podem contribuir para os resultados da organização. Ou seja, ser transparente na gestão é investir no fortalecimento do time e na coesão organizacional.
+E assim, com esse papo sobre clima organizacional e a importância da transparência, chegamos ao fim de mais um episódio. Lembre-se: estamos sempre em alta frequência quando conseguimos manter a comunicação aberta e um ambiente de trabalho saudável. Obrigada por me acompanhar até aqui! Eu sou Dyane e esse foi mais um episódio de "Pessoas em Alta Frequência". Até a próxima, pessoal!
+
+Midjourney
+
+- Capa - Imagine uma capa para um podcast de gestão de pessoas focado em clima organizacional, com pessoas em uma empresa, com filtro realista de cores.
